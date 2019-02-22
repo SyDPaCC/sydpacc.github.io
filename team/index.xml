@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teams on SyDPaCC</title>
+    <link>https://sypdacc.github.io/team/</link>
+    <description>Recent content in Teams on SyDPaCC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Oct 2018 12:30:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://sypdacc.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frédéric Loulergue</title>
+      <link>https://sypdacc.github.io/team/frederic_loulergue/</link>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/frederic_loulergue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julien Tesson</title>
+      <link>https://sypdacc.github.io/team/julien_tesson/</link>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/julien_tesson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wadoud Bousdira</title>
+      <link>https://sypdacc.github.io/team/wadoud_bousdira/</link>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/wadoud_bousdira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jolan Philippe</title>
+      <link>https://sypdacc.github.io/team/jp2589/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/jp2589/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris D. Whitney</title>
+      <link>https://sypdacc.github.io/team/chris_whitney/</link>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/chris_whitney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kento Emoto</title>
+      <link>https://sypdacc.github.io/team/kento_emoto/</link>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/kento_emoto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

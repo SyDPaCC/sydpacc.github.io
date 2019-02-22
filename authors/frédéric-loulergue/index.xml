@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frédéric Loulergue on SyDPaCC</title>
+    <link>https://sypdacc.github.io/authors/fr%C3%A9d%C3%A9ric-loulergue/</link>
+    <description>Recent content in Frédéric Loulergue on SyDPaCC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://sypdacc.github.io/authors/fr%C3%A9d%C3%A9ric-loulergue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parallel Programming with Coq: Map and Reduce Skeletons on Trees</title>
+      <link>https://sypdacc.github.io/publication/pl2019_sac.bib/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/pl2019_sac.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verified Programs for Frequent Itemset Mining</title>
+      <link>https://sypdacc.github.io/publication/lw2018_atc.bib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lw2018_atc.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Verified Accumulate Algorithmic Skeleton</title>
+      <link>https://sypdacc.github.io/publication/lou2017_candar.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lou2017_candar.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculating Parallel Programs in Coq using List Homomorphisms</title>
+      <link>https://sypdacc.github.io/publication/lbt2015_ijpp.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lbt2015_ijpp.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalization of a Big Graph API in Coq (Poster)</title>
+      <link>https://sypdacc.github.io/publication/plb2017_hpcs.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/plb2017_hpcs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Development of Programs for Scalable Computing Using Coq (Tutorial)</title>
+      <link>https://sypdacc.github.io/publication/lou2017_hpcs.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lou2017_hpcs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Verified Parallel Implementation of Frequent Itemset Mining (Poster)</title>
+      <link>https://sypdacc.github.io/publication/wl2017_hpcs.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/wl2017_hpcs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of Correct-by-Construction Functional Parallel Programs (Tutorial)</title>
+      <link>https://sypdacc.github.io/publication/lou2016_sac.bib/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lou2016_sac.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcul de programmes parallèles avec Coq</title>
+      <link>https://sypdacc.github.io/publication/lbt2015_ejcim.bib/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lbt2015_ejcim.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Verified Generate-Test-Aggregate Coq Library for Parallel Programs Extraction</title>
+      <link>https://sypdacc.github.io/publication/elt2014_itp.bib/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/elt2014_itp.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certified Parallel Program Calculation in Coq: A Tutorial</title>
+      <link>https://sypdacc.github.io/publication/lt2014_hpcs.bib/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lt2014_hpcs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formal Derivation and Extraction of a Parallel Program for the All Nearest Smaller Values Problem</title>
+      <link>https://sypdacc.github.io/publication/lrt2014_sac.bib/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lrt2014_sac.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powerlists in Coq: Programming and Reasoning</title>
+      <link>https://sypdacc.github.io/publication/lnr2013_candar.bib/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/lnr2013_candar.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Verified Library of Algorithmic Skeletons on Evenly Distributed Arrays</title>
+      <link>https://sypdacc.github.io/publication/blt2012_ica3pp.bib/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/blt2012_ica3pp.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Verified Bulk Synchronous Parallel ML Heat Diffusion Simulation</title>
+      <link>https://sypdacc.github.io/publication/tl2011_iccs.bib/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/tl2011_iccs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Program Calculation in Coq</title>
+      <link>https://sypdacc.github.io/publication/thh2010_amast.bib/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/publication/thh2010_amast.bib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
