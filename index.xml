@@ -73,6 +73,21 @@
     </item>
     
     <item>
+      <title>Louis Gesbert</title>
+      <link>https://sypdacc.github.io/team/louis_gesbert/</link>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/louis_gesbert/</guid>
+      <description>&lt;p&gt;Louis holds a PhD from University Paris Est, and has studied at
+EnsIIE, University of Manchester and University of Tokyo. He has a
+strong background on programming languages and distribution, and was
+one of the architects behind the Opa language developed at
+MLstate. Finally, he joined &lt;a
+href=&#34;https://www.ocamlpro.com&#34;&gt;OCamlPro&lt;/a&gt; in November 2012.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Parallel Programming with Coq: Map and Reduce Skeletons on Trees</title>
       <link>https://sypdacc.github.io/publication/pl2019_sac.bib/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
@@ -132,15 +147,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
       <guid>https://sypdacc.github.io/publication/wl2017_hpcs.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development of Correct-by-Construction Functional Parallel Programs (Tutorial)</title>
-      <link>https://sypdacc.github.io/publication/lou2016_sac.bib/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://sypdacc.github.io/publication/lou2016_sac.bib/</guid>
       <description></description>
     </item>
     
