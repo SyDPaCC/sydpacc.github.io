@@ -6,7 +6,7 @@
     <description>Recent content in Jolan Philippe on SyDPaCC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://sypdacc.github.io/authors/jolan-philippe/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Parallel Programming with Coq: Map and Reduce Skeletons on Trees</title>
       <link>https://sypdacc.github.io/publication/pl2019_sac.bib/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://sypdacc.github.io/publication/pl2019_sac.bib/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Formalization of a Big Graph API in Coq (Poster)</title>
       <link>https://sypdacc.github.io/publication/plb2017_hpcs.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://sypdacc.github.io/publication/plb2017_hpcs.bib/</guid>
       <description></description>

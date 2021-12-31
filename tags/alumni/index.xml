@@ -6,15 +6,33 @@
     <description>Recent content in alumni on SyDPaCC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Oct 2018 12:30:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 12:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://sypdacc.github.io/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Julien Tesson</title>
+      <link>https://sypdacc.github.io/team/julien_tesson/</link>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 +0200</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/julien_tesson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jolan Philippe</title>
+      <link>https://sypdacc.github.io/team/jp2589/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://sypdacc.github.io/team/jp2589/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chris D. Whitney</title>
       <link>https://sypdacc.github.io/team/chris_whitney/</link>
-      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 +0200</pubDate>
       
       <guid>https://sypdacc.github.io/team/chris_whitney/</guid>
       <description></description>
@@ -23,7 +41,7 @@
     <item>
       <title>Kento Emoto</title>
       <link>https://sypdacc.github.io/team/kento_emoto/</link>
-      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 +0200</pubDate>
       
       <guid>https://sypdacc.github.io/team/kento_emoto/</guid>
       <description></description>
@@ -32,7 +50,7 @@
     <item>
       <title>Louis Gesbert</title>
       <link>https://sypdacc.github.io/team/louis_gesbert/</link>
-      <pubDate>Fri, 26 Oct 2018 12:30:00 -0700</pubDate>
+      <pubDate>Fri, 26 Oct 2018 12:30:00 +0200</pubDate>
       
       <guid>https://sypdacc.github.io/team/louis_gesbert/</guid>
       <description>Louis holds a PhD from University Paris Est, and has studied at EnsIIE, University of Manchester and University of Tokyo. He has a strong background on programming languages and distribution, and was one of the architects behind the Opa language developed at MLstate. Finally, he joined OCamlPro in November 2012.</description>
