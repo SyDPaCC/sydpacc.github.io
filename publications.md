@@ -5,7 +5,7 @@ description: Publications
 
 ## 2023
 
-- Frédéric Loulergue and Ed-Dbali Ali. Verified high performance computing: the SyDPaCC approach. In 16th International Conference on Verification and Evaluation of Computer and Communication Systems (VECoS), LNCS. Springer, 2023, [preprint](https://hal.science/hal-04171949), [paper](https://link.springer.com/book/9783031497360).
+- Frédéric Loulergue and Ali Ed-Dbali. Verified high performance computing: the SyDPaCC approach. In 16th International Conference on Verification and Evaluation of Computer and Communication Systems (VECoS), LNCS. Springer, 2023, [preprint](https://hal.science/hal-04171949), [paper](https://link.springer.com/book/9783031497360).
 - Frédéric Loulergue and Jolan Philippe. Towards verified scalable parallel computing with Coq and Spark. In Proceedings of the 25th ACM International Workshop on Formal Techniques for Java-like Programs (FTfJP), pages 11-17, New York, NY, USA, ACM, 2023, [paper](http://dx.doi.org/10.1145/3605156.3606450).
 
 ## 2019

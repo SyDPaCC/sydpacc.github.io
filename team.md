@@ -1,16 +1,20 @@
 ---
 title: SyDPaCC
-description: Current Team
+description: Team
 ---
 
-- [Frédéric Loulergue](https://frederic.loulergue.eu)
+## Current Team
 
-  Professor, Université d’Orléans
+- [Frédéric Loulergue](https://frederic.loulergue.eu), Professor, Université d’Orléans
 
-- Wadoud Bousdira
+- Wadoud Bousdira, Associate Professor, Université d’Orléans
 
-  Associate Professor, Université d’Orléans
+- Ali EdDbali, Associate Professor, Université d’Orléans
 
-- Ali EdDbali
+## Former Contributors
 
-  Associate Professor, Université d’Orléans
+- Jolan Philippe
+- Julien Tesson
+- Simon Robillard
+- Kento Emoto
+- Louis Gesbert
