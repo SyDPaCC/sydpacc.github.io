@@ -1,6 +1,4 @@
-![Logo](/logo/sydpacc.svg)
-
-SyDPaCC is a set of libraries for the Coq proof assistant. It allows writing naive functional programs (i.e. with high complexity) that are considered as specifications, and to transform them into more efficient versions. These more efficient versions can be automatically parallelized before being extracted from Coq into source code for the functional language OCaml together with calls to the Bulk Synchronous Parallel ML (BSML) library.
+SyDPaCC is a set of libraries for the [Coq](https://coq.inria.fr) proof assistant. It allows writing naive functional programs (i.e. with high complexity) that are considered as specifications, and to transform them into more efficient versions. These more efficient versions can be automatically parallelized before being extracted from Coq into source code for the functional language OCaml together with calls to the Bulk Synchronous Parallel ML (BSML) library.
 
 For the optimization of sequential functions, SyDPaCC provides theorems such as the second homomorphism theorem that states that a homomorphic function is equivalent to a composition of map and reduce.
 
