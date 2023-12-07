@@ -1,8 +1,6 @@
 ---
-title: Downloads
+description: Downloads
 ---
-
-# Downloads
 
 ## The SyDPaCC Framework
 

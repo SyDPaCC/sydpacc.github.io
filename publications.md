@@ -1,8 +1,6 @@
 ---
-title: Publications
+description: Publications
 ---
-
-# Publications
 
 ## 2023
 

@@ -1,8 +1,6 @@
 ---
-title: Team
+description: Team
 ---
-
-# Current Team
 
 - [Frédéric Loulergue](https://frederic.loulergue.eu)
   Professor, Université d’Orléans
