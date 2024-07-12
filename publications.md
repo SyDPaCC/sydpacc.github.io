@@ -3,6 +3,12 @@ title: SyDPaCC
 description: Publications
 ---
 
+## 2024
+
+- Frédéric Loulergue, Jordan Ischard, A Framework for the Development of Verified Scalable Parallel Functional Languages, In
+Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), Crete Island, Greece, LNCS, Springer, 2024, to appear
+- Frédéric Loulergue and Julien Tesson. Verified parallel programming in Coq with Bulk Synchronous Parallel homomorphisms. In High Level Parallel Programming and Applications (HLPP), Pisa, Italy, 2024, [draft proceedings](http://hlpp2024.di.unipi.it/wp-content/uploads/2024/07/HLPP2024_Proceedings.pdf)
+
 ## 2023
 
 - Frédéric Loulergue and Ali Ed-Dbali. Verified high performance computing: the SyDPaCC approach. In 16th International Conference on Verification and Evaluation of Computer and Communication Systems (VECoS), LNCS. Springer, 2023, [preprint](https://hal.science/hal-04171949), [paper](https://link.springer.com/book/9783031497360).
