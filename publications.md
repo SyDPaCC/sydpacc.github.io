@@ -3,10 +3,14 @@ title: SyDPaCC
 description: Publications
 ---
 
+## 2026 
+
+- Frédéric Loulergue, Jordan Ischard, and Ed-Dbali Ali, Verified derivation of a parallel maximum segment sum program based on algorithmic skeletons. Innovations in Systems and Software Engineering, Springer, 2026, to appear.
+
 ## 2024
 
 - Frédéric Loulergue, Jordan Ischard, A Framework for the Development of Verified Scalable Parallel Functional Languages, In
-Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), Crete Island, Greece, LNCS, Springer, 2024, to appear
+Leveraging Applications of Formal Methods, Verification and Validation (ISoLA), Crete Island, Greece, LNCS, Springer, 2024, doi: [10.1007/978-3-031-75380-0_16)](http://dx.doi.org/10.1007/978-3-031-75380-0_16)
 - Frédéric Loulergue and Julien Tesson. Verified parallel programming in Coq with Bulk Synchronous Parallel homomorphisms. In High Level Parallel Programming and Applications (HLPP), Pisa, Italy, 2024, [draft proceedings](http://hlpp2024.di.unipi.it/wp-content/uploads/2024/07/HLPP2024_Proceedings.pdf)
 
 ## 2023
